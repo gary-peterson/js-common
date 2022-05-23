@@ -1,0 +1,34 @@
+{
+  "name": "@garypeterson/js-common",
+  "version": "1.0.1",
+  "description": "Javascript common objects and tools",
+  "keywords": [
+    "common",
+    "matrix",
+    "exceptions",
+    "JavaScript Extensions",
+    "Meta",
+    "Model",
+    "Tools"
+  ],
+  "homepage": "https://github.com/gary-peterson/jsCommon#readme",
+  "main": "index.js",
+  "module": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gary-peterson/jsCommon.git"
+  },
+  "author": "gp",
+  "license": "ISC",
+  "private": false,
+  "devDependencies": {},
+  "directories": {
+    "test": "test"
+  },
+  "bugs": {
+    "url": "https://github.com/gary-peterson/jsCommon/issues"
+  }
+}
