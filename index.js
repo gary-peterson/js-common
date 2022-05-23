@@ -5,6 +5,7 @@ run tests headless (console output)
 
 const
 	{MinimalMatrix} = require('./common-objects/minimal-matrix'),
+	{MatrixTool} = require('./common-objects/matrix-tool'),
 
 	{CustomException} = require('./common-tools/custom-exception'),
 	{Tools} = require('./common-tools/tools'),
@@ -25,6 +26,7 @@ JsExtensionLoader.load();
 
 //Exported Classes
 exports.MinimalMatrix = MinimalMatrix;
+exports.MatrixTool = MatrixTool;
 exports.CustomException = CustomException;
 exports.Tools = Tools;
 exports.MetaModel = MetaModel;
